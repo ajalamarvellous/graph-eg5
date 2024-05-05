@@ -1,0 +1,33 @@
+---
+title: graph-eg5
+author:
+    - Ajala Marvellous, Damilola Abiodun
+institute: Independent
+keywords:
+    - reproducible-research
+abstract: |
+    Application of graph neural networks [GCN & GAT] for the application of natural compounds that inhibit eg5 target
+bibliography: literature.yaml
+csl: apa.csl
+link-citations: True
+css:
+    - reset.css
+    - report.css
+lang: en-GB
+figureTemplate: <span>$$figureTitle$$ $$i$$$$titleDelim$$</span> $$t$$
+tableTemplate: <span>$$tableTitle$$ $$i$$$$titleDelim$$</span> $$t$$
+figPrefix:
+    - "Figure"
+    - "Figures"
+tblPrefix:
+    - "Table"
+    - "Tables"
+eqnPrefix:
+    - "Equation"
+    - "Equations"
+secPrefix:
+    - "Section"
+    - "Sections"
+linkReferences: True
+date: 2024-05-05
+---
